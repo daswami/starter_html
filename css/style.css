@@ -276,6 +276,9 @@
       transition: none;
       animation: none;
     }
+    .gif {
+      display: none;
+    }
 }
   
 
